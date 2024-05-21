@@ -1,0 +1,2 @@
+docker stop ikhaddatvroegermoetendoen
+docker rm ikhaddatvroegermoetendoen
